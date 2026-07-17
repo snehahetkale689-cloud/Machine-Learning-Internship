@@ -13,6 +13,7 @@ This repository contains the projects completed during my Machine Learning Inter
 - Scikit-learn
 - Jupyter Notebook
 
+
 ## Task 1: Data Exploration and Preprocessing
 
 ### Objectives
@@ -27,6 +28,7 @@ This repository contains the projects completed during my Machine Learning Inter
 - Data Cleaning
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
+
 
 ## Task 2: Regression Analysis
 
